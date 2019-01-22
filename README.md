@@ -1,2 +1,2 @@
-# kara-cloud
-⛅Homepage for Kara Cloud
+# Kara Homepage
+⛅ Homepage for Kara Cloud
